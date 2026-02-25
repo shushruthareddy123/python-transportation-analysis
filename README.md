@@ -14,10 +14,3 @@ pip install -r requirements.txt
 
 Open the notebook and run all cells.
 
-## Replace with a real dataset (recommended)
-Swap `data/transportation_synthetic.csv` with your dataset and adjust column names.
-
-## Portfolio highlights (paste into your portfolio)
-- Cleaned and analyzed transportation data with Pandas.
-- Built charts to find peak delay hours, route patterns, and seasonality.
-- Summarized insights and recommendations for operational improvements.
